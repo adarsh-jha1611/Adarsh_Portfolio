@@ -18,7 +18,7 @@ const Portfolio = () => {
 
         <motion.div variants={textVariant(.4)} className={`flexCenter ${css.heading}`}>
           <div>
-            <span className="primary1Text">My Latest Works  🚀</span>
+            <span className="primary1Text">My Latest Works 🚀</span>
             <p style={{marginTop: "10px"}}>Perfect solution for digital experience</p>
           </div>
           <a href="https://github.com/adarsh-jha1611" target="_blank"><span className="secondaryText">Explore More Works</span></a>
