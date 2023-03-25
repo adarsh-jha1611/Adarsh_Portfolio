@@ -26,7 +26,7 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
-          <a href="https://github.com/adarsh-jha1611/Travel-Vadodara" target="_blank"><motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" /></a>
+          <a href="https://travel-vadodara.netlify.app/home" target="_blank"><motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" /></a>
          <a href="https://avior.vercel.app/" target="_blank"><motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" /></a>
          <a href="https://adarsh-jha1611.github.io/ADI/" target="_blank"><motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" />
 </a>
