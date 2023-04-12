@@ -57,7 +57,7 @@ const Experties = () => {
                 
                 </div>
                 <div className={`flexCenter ${css.resume}`}>
-                <a href="https://docs.google.com/document/d/1Ra2NbLxO5GWdZ7GyVHpSqRqQrrxKamT2/edit?usp=sharing&ouid=115673814765788752688&rtpof=true&sd=true" target="_blank"><img src="./resume.png" alt="" /><span className="secondaryText"> Resume</span></a>
+                <a href="https://docs.google.com/document/d/1xFmObRZEnTPDT_-I_3ecOA9_0gb1BpIa/edit?usp=sharing&ouid=115673814765788752688&rtpof=true&sd=true" target="_blank"><img src="./resume.png" alt="" /><span className="secondaryText"> Resume</span></a>
 
                 </div>
                 
@@ -65,11 +65,11 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>155+</span>
+                        <span className='primaryText'>195+</span>
                         <span className='secondaryText'>Leetcode Problems</span>
                     </div>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>400+</span>
+                        <span className='primaryText'>460+</span>
                         <span className='secondaryText'>Programming questions</span>
                     </div>
                 </div>
