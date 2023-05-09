@@ -69,7 +69,7 @@ const Experties = () => {
                         <span className='secondaryText'>Leetcode Problems</span>
                     </div>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>460+</span>
+                        <span className='primaryText'>500+</span>
                         <span className='secondaryText'>Programming questions</span>
                     </div>
                 </div>
